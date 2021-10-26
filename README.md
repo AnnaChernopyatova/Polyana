@@ -1,2 +1,1 @@
-# Polyana
-Project of an adaptive site for a charity program Polyana
+# f5_team5_project_2
